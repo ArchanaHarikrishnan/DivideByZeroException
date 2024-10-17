@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideByZeroExceptionEX", "DivideByZeroException\DivideByZeroExceptionEX.csproj", "{60E40E13-E6F3-4321-9BC0-467B81889BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullReferenceExceptionEx", "..\NullReferenceExceptionEx\NullReferenceExceptionEx.csproj", "{71F9329C-D821-4FBC-9D67-57B86A663371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E40E13-E6F3-4321-9BC0-467B81889BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E40E13-E6F3-4321-9BC0-467B81889BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E40E13-E6F3-4321-9BC0-467B81889BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E40E13-E6F3-4321-9BC0-467B81889BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F9329C-D821-4FBC-9D67-57B86A663371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F9329C-D821-4FBC-9D67-57B86A663371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F9329C-D821-4FBC-9D67-57B86A663371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F9329C-D821-4FBC-9D67-57B86A663371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A88E4CDA-070F-4552-8B54-B3C8434824F5}
+	EndGlobalSection
+EndGlobal
